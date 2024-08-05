@@ -37,8 +37,8 @@ public class CookiesDemo {
 	 Response res =	given()
 		.when()
 		.get("https://www.google.com/");	
-	 
-	   // SIngle cookie
+
+//		Single cookie
 //	 	String cookievalue = res.getCookie("AEC");
 //	 	System.out.println("Value of Cookie is------->"+cookievalue);
 			 

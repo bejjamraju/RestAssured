@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Day3.TestLogs
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.057 s -- in Day3.TestLogs
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.856 s -- in Day3.TestLogs
